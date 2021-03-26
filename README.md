@@ -5,4 +5,4 @@
     You can grab Clarifai API key [here](https://www.clarifai.com/)
 
 5. Add your own database credentials to `server.js` line 12
-6. Use postgreSQL instead of mySQL for this code base.
+6. Use postgreSQL 
